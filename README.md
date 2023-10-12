@@ -11,3 +11,5 @@ https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install
 ## Running the container
 `docker run --gpus all -it --rm -p 10000:8888 -v "${PWD}":/home/jovyan/work egineering/fastai:fastai-basic-dev-latest`
 
+## Docker Hub
+https://hub.docker.com/repository/docker/egineering/fastai/general
